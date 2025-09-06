@@ -9,7 +9,7 @@ I'm a passionate Junior Front-end Developer within the ALX community, aspiring t
 
 - 🌱 Currently learning: HTML, JavaScript, and CSS.
 <!-- 🔭 Working on: **[current projects or side-projects]**-->
-- 🌍 Languages: English, French(intermediate)
+- 🌍 Languages: English, French(beginner)
 - 📫 How to reach me: sackeykeyman@gmail.com
 - ⚡ Fun fact: I like playing games, watching anime, and listening to music.
 
